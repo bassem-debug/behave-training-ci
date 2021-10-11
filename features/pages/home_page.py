@@ -1,6 +1,6 @@
 from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
-from features.browser import Browser
+from browser import Browser
 
 element_to_drag="draggable"
 element_to_drop="droppable"
